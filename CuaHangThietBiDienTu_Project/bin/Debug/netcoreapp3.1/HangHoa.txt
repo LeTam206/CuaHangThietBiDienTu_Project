@@ -1,0 +1,15 @@
+ma01#Dien thoai SamSung 64GB#China#Den#5990000#15/01/2022#25
+ma02#Dien thoai Oppo 128GB#China#Trang#7990000#05/03/2022#38
+ma03#Dien thoai Nokia 32GB#China#Do#3490000#21/04/2022#30
+ma04#Laptop Asus #China#Bac#21990000#27/02/2022#27
+ma05#Laptop HP#China#Trang#17490000#15/05/2022#18
+ma06#Laptop Lenovo#China#Den#15300000#11/07/2022#17
+ma07#Tai nghe Sony#China#Trang#990000#29/03/2022#25
+ma08#Ban phim E-Dra#China#Den#1190000#11/01/2022#15
+ma09#Chuot Logitech#China#Vang#399000#28/06/2022#17
+ma10#Iphone X 64GB#China#Trang#8490000#13/02/2022#28
+ma11#Iphone 11 128GB#China#Vang#12990000#01/04/2022#40
+ma12#Iphone 12 64GB#China#Do#15990000#20/05/2022#24
+ma13#Iphone 13 512GB#China#Den#25500000#17/07/2022#15
+ma14#Usb 64GB#China#Bac#199000#19/03/2022#15
+ma15#Usb 128GB#China#Trang#339000#14/06/2022#18
